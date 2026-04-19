@@ -1,0 +1,6 @@
+estacion,lat,lon,altitud_msnm,era5_lat,era5_lon,era5_file,merra2_file
+Belisario,-0.1847,-78.4959,2843,-0.25,-78.5,ERA5_785_025,MERRA2_Belisario_2006_2024.csv
+Cotocollao,-0.1077,-78.4972,2752,0,-78.5,ERA5_785_000,MERRA2_Cotocollao_2006_2024.csv
+Tumbaco,-0.2149,-78.4032,2336,-0.25,-78.5,ERA5_785_025,MERRA2_Tumbaco_2006_2024.csv
+Carapungo,-0.0954,-78.4498,2644,0,-78.5,ERA5_785_000,MERRA2_Carapungo_2006_2024.csv
+LosChillos,-0.297,-78.4552,2463,-0.25,-78.5,ERA5_785_025,MERRA2_Chillos_2006_2024.csv
